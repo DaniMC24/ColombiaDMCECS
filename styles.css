@@ -1,0 +1,29 @@
+h1{
+color: darkmagenta;
+text-align: center;
+}
+
+
+p{
+    text-align: center;
+
+}
+
+
+
+ul{
+    list-style: none;
+    border: 5px dashed;
+    width: 50%;
+    margin: auto ;
+}
+
+ul li{
+ border:3px outset;
+
+}
+
+img{
+display: block;
+
+}
